@@ -12,7 +12,7 @@ public class RandomKey extends JavaPlugin {
     private BukkitTask tareaInteraccion;
     private long tiempoRestante;
 
-    private final int tiempoEntreInteracciones = 15 * 60 * 20; // 15 minutos en ticks
+    private final int tiempoEntreInteracciones = 15 * 60 * 20; //15 minutos en ticks
 
     @Override
     public void onEnable() {
