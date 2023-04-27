@@ -1,0 +1,6 @@
+name: RandomKey
+version: '${version}'
+main: com.yeferson_31_.randomkey.RandomKey
+api-version: 1.19
+depend:
+  - PlaceholderAPI
